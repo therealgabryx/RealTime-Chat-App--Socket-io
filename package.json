@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/therealgabryx/RealTime-Chat-App--Socket-io#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
